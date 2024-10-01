@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BitbreakerApplication<bitbreaker>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bitbreakers.bitbreaker.BitbreakerApplication",
+            "projectName": "bitbreaker",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
