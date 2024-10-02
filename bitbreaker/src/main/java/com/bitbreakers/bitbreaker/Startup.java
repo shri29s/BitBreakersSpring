@@ -1,4 +1,4 @@
-package com.bitbreakers.bitbreaker.models;
+package com.bitbreakers.bitbreaker;
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
