@@ -1,4 +1,5 @@
 Spring Boot Application
+
 Prerequisites
 Before running the application, ensure that you have the following installed:
 
